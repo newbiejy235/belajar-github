@@ -1,7 +1,7 @@
 ## CLI / Perintah github
 
 - git switch -c register : untk membuat branch baru sekaligus pindah ke branch tersebut
-
+  
 -git push -u origin <nama branch> : untuk push ke barnch tertentu
 
 -git merge --abort : membatalkan merge
